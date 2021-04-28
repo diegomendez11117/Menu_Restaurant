@@ -17,6 +17,8 @@ public class MenuItem {
         return price;
     }
 
+
+
     public void setPrice(double aPrice) {
         price = aPrice;
     }
